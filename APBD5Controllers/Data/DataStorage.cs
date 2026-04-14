@@ -2,7 +2,7 @@
 
 namespace APBD5Controllers.Data;
 
-public class DataStorage
+public static class DataStorage
 {
     public static List<Room> Rooms { get; } =
     [
