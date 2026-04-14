@@ -1,6 +1,0 @@
-@APBD5Controllers_HostAddress = http://localhost:5181
-
-GET {{APBD5Controllers_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
